@@ -1,3 +1,6 @@
 Doc1 - Line1
 
+Testcase2{
+}
+
 New Functionality by Arpit
