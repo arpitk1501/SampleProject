@@ -1,5 +1,6 @@
 Doc1 - Line1
-<<<<<<< HEAD
+
 Testcase2{
-=======
->>>>>>> origin/release/1.0
+}
+
+New Functionality by Arpit
